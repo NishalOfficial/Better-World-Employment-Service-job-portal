@@ -9,3 +9,4 @@ The company is provinding  the following features
 - Ability to add/update/delete jobs by their respective logged in companies
 
 - Job application listings on respective companies dashboard page
+. Documentation regarding the project and the solutions proposed. 2. UML diagrams for the classes required. 3. Implementation on Node JS based web application. 4. Strictly follow the object-oriented paradigm. 5. Strictly follow MVC (Model, View, and Controller) design of software programming.
